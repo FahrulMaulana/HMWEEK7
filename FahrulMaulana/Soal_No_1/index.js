@@ -1,7 +1,7 @@
 const persegipanjang = require('./persegipanjang');
 const persegi = require('./persegi');
 
-const panjang = 5;
+const panjang = 10;
 const lebar = 3;
 const sisi = 4;
 
